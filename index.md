@@ -1,4 +1,4 @@
-### Serverless Architectures for Early stage startups
+## Serverless Architectures for Early stage startups
 
 #### Build a simple web application 
 
