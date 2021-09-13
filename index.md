@@ -24,4 +24,12 @@ A mobile backend can be implemeneted using a similar approach such as the Rest a
 
 ![Mobile Backend!](https://docs.aws.amazon.com/wellarchitected/latest/serverless-applications-lens/images/image5.png "Mobile Backend")
 
-Check out this [blog](https://aws.amazon.com/blogs/mobile/building-scalable-graphql-apis-on-aws-with-cdk-and-aws-appsync/) to understand how to build a full stack appsync backend using the cloud development kit (CDK)
+Check out the blog [Building Scalable GraphQL APIs on AWS with CDK, TypeScript, AWS AppSync, Amazon DynamoDB, and AWS Lambda](https://aws.amazon.com/blogs/mobile/building-scalable-graphql-apis-on-aws-with-cdk-and-aws-appsync/) to understand how to build a full stack appsync backend using the cloud development kit (CDK)
+
+#### Stream Processing 
+
+Some of the application above would require additional capabilities such as processing click-stream data for analysis. This is also possible on AWS using a fully serverless stack as described [here](https://docs.aws.amazon.com/wellarchitected/latest/serverless-applications-lens/stream-processing.html)
+
+![Stream Processing!](https://docs.aws.amazon.com/wellarchitected/latest/serverless-applications-lens/images/image6.png "Stream Processing")
+
+For a solution on how you can deploy this on AWS using CDK code, review the blog [Build a real-time streaming analytics pipeline with the AWS CDK](https://aws.amazon.com/blogs/big-data/build-a-real-time-streaming-analytics-pipeline-with-the-aws-cdk/)
