@@ -23,3 +23,5 @@ It is possible to build this service using the API-Gateway-Lambda module with AW
 A mobile backend can be implemeneted using a similar approach such as the Rest api service above, but sometimes one needs to simplify communication with the backend and add capabilities such as realtime updates, offline capability, etc. Ths can be achived using graphql technology as indicated [here](https://docs.aws.amazon.com/wellarchitected/latest/serverless-applications-lens/mobile-backend.html)
 
 ![Mobile Backend!](https://docs.aws.amazon.com/wellarchitected/latest/serverless-applications-lens/images/image5.png "Mobile Backend")
+
+Check out this [blog](https://aws.amazon.com/blogs/mobile/building-scalable-graphql-apis-on-aws-with-cdk-and-aws-appsync/) to understand how to build a full stack appsync backend using the cloud development kit (CDK)
