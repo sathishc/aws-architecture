@@ -6,3 +6,5 @@
 
 - [Reference architecture diagram](https://docs.aws.amazon.com/wellarchitected/latest/serverless-applications-lens/images/image7.png)
 
+- You can easily build the architecture using the CDK solution construct at [AWS-Serverless-Webapp](https://github.com/awslabs/aws-solutions-constructs/tree/main/source/use_cases/aws-serverless-web-app)
+
