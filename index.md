@@ -1,4 +1,4 @@
-## Serverless Architectures for Early stage startups
+## Reference Architectures on AWS
 
 #### Build a simple web application 
 
